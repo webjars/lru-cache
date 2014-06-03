@@ -1,4 +1,4 @@
-minimatch
+lru-cache
 =========
 
-A WebJar for the minimatch project.
+A WebJar for the lru-cache project.
